@@ -1,0 +1,6 @@
+0. iniciar repositorio / git init
+1. empiezo a trabajar - genero archivos / ...
+2. agrego los archivos al repositorio / git add
+3. confirmo los cambios / git commit
+4. sigo trabajando / recordar hacer add para incluir cambios
+5. sincronizar el repositorio con una solucion en la nube
